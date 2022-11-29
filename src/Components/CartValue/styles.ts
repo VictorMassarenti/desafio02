@@ -34,5 +34,10 @@ color: ${(props) => props.theme['yellow-dark']};
         color: ${(props) => props.theme.white};
         background-color: ${(props) => props.theme['yellow-dark']};
         border-radius: 1000px;
+
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 12px;
+        text-align: center;
     }
 `
