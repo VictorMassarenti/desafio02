@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const AddCartContainer = styled.div`
+box-sizing: border-box;
 width: 38px;
 height: 38px;
 
