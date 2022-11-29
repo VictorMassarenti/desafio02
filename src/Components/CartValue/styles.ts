@@ -15,9 +15,8 @@ height: 38px;
 
 background-color: ${(props) => props.theme['yellow-light']};
 border-radius: 6px;
-    :only-child {
-        color: ${(props) => props.theme['yellow-dark']};
-    }
+color: ${(props) => props.theme['yellow-dark']};
+
     div {
         display: flex;
         flex-direction: row;
